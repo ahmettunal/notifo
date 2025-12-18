@@ -10,7 +10,7 @@ Notifo is a multi-channel notification service for collaboration tools, e-commer
 ![Notifo Tour](https://github.com/notifo-io/notifo/raw/main/media/tour/Notifo.gif "Notifo Tour")
 
 ## Features
-
+Mahadas
 * Powerful and rich REST API with OpenAPI documentation.
 * Management UI to create notification templates, users, subscription, projects, settings and email templates.
 * Email templates with MJML and Liquid Templates.
