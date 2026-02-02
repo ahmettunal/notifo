@@ -4,7 +4,6 @@
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/squidex/notifo?sort=date)](https://hub.docker.com/r/squidex/notifo)
 
 Try it out at https://app.notifo.io!
-Deneme
 Notifo is a multi-channel notification service for collaboration tools, e-commerce, news, magazines and everybody who wants to notify their users.
 
 ![Notifo Tour](https://github.com/notifo-io/notifo/raw/main/media/tour/Notifo.gif "Notifo Tour")
